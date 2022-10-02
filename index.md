@@ -4,7 +4,7 @@ I have learned **Java**, **C**, **C++**, **Python**, and **R**.
 
 The first language I learned was **C++**, and the first code I wrote was `cout << "Hello World!";`
 
-[To know my favorite language](https://github.com/Oooleaf/LabWeek0-1/blob/my-branch/README.md)
+[Click here to know my favorite language](https://github.com/Oooleaf/LabWeek0-1/blob/my-branch/README.md)
 ## As a person
 > 53º 40,6 N 008º 06,3 E
 
@@ -19,3 +19,4 @@ I like painting and watercolors.
   1. Howl's Moving Castle
   2. The Secret World of Arrietty
   3. My Neighbor Totoro
+   
