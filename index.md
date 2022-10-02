@@ -19,4 +19,8 @@ I like painting and watercolors.
   1. Howl's Moving Castle
   2. The Secret World of Arrietty
   3. My Neighbor Totoro
-   
+- My tasks
+  - [x] read 3 books in this year
+  - [ ] read 100 books in this year
+  - [ ] read 10000000000000000000000 books in this year :frog:	
+
