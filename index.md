@@ -14,7 +14,7 @@ I like painting and watercolors.
 ![2](https://user-images.githubusercontent.com/114543429/193435794-a170e78e-2159-45aa-8f63-1e4071f346db.png)
 ![3](https://user-images.githubusercontent.com/114543429/193435798-6702d779-cf18-481d-ba26-f456d951990e.png)
 
-- My favorite YouTube channel is https://www.youtube.com/watch?v=fdq04tIKJYQ
+- My favorite YouTube channel is [Check here to know NOMA](https://www.youtube.com/watch?v=fdq04tIKJYQ)
 - My favorite movies are
   1. Howl's Moving Castle
   2. The Secret World of Arrietty
